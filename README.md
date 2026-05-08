@@ -3,7 +3,7 @@
 将 [Claude.ai](https://claude.ai) 的界面翻译为**简体中文**的 Chrome 扩展。
 
 覆盖 1300+ 条 UI 文本，支持动态内容实时翻译，不影响对话内容本身。
-(如有未翻译文本，根据底下方法获取未翻译文本发给我及时反馈更新)
+
 ---
 
 ## 截图
@@ -43,7 +43,7 @@
 ### 方法二：克隆仓库
 
 ```bash
-git clone https://github.com/你的用户名/-.git
+git clone https://github.com/你的用户名/claude-translate-extension.git
 ```
 
 然后按方法一第 2 步操作。
