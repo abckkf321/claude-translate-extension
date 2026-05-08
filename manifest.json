@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Claude.ai 中文界面",
+  "version": "1.0.0",
+  "description": "将 Claude.ai 的界面翻译为简体中文",
+  "content_scripts": [
+    {
+      "matches": ["https://claude.ai/*"],
+      "js": ["translations.js", "content.js"],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Claude.ai 中文界面"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
