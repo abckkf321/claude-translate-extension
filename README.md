@@ -43,7 +43,7 @@
 ### 方法二：克隆仓库
 
 ```bash
-git clone https://github.com/你的用户名/claude-translate-extension.git
+git clone https://github.com/你的用户名/-.git
 ```
 
 然后按方法一第 2 步操作。
