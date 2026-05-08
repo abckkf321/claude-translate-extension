@@ -1,7 +1,7 @@
 # Claude.ai 中文界面 🌏
 
 将 [Claude.ai](https://claude.ai) 的界面翻译为**简体中文**的 Chrome 扩展。
-
+       https://abckkf321.github.io/claude-translate-extension/
 覆盖 1300+ 条 UI 文本，支持动态内容实时翻译，不影响对话内容本身。
 
 ---
